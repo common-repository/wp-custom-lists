@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-05-20 12:19+0100\n"
+"PO-Revision-Date: 2014-05-21 12:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_n:1,2\n"
+"X-Poedit-Basepath: languages\\wp-list-cpt-fr_FR.po\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wpmaster\\wp-content\\plugins\\wp-"
+"lists\n"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:61
+msgid "List deleted"
+msgstr "Liste supprimée"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:73
+msgid "List Added"
+msgstr "Liste ajoutée"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:79
+msgid "List updated"
+msgstr "Liste mise à jour"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:92
+msgid "Delete list"
+msgstr "Supprimer la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:93
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:96
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:186
+msgid "Delete"
+msgstr "Supprimer"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:101
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:255
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:293
+msgid "Edit list"
+msgstr "Editer la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:102
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:116
+msgid "Add list"
+msgstr "Ajouter une liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:117
+msgid "Add"
+msgstr "Ajouter"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-item-panel.php:150
+msgid "Enter title here"
+msgstr "Saisissez votre texte ici"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:94
+msgid "Rename"
+msgstr "Renommer"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:95
+msgid "Display list"
+msgstr "Afficher la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:140
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/meta-box-panel.php:38
+msgid "Title"
+msgstr "Titre"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:141
+msgid "Nb"
+msgstr "Nb"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/list-panel.php:219
+#, fuzzy, php-format
+msgid "%s List delete"
+msgid_plural "%s Lists delete"
+msgstr[0] "%s Liste supprimée"
+msgstr[1] "%s Listes supprimées"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:142
+msgid "Validation failed. List title is required."
+msgstr "La validation a échoué. Un titre de liste est requis"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:162
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:301
+msgid "Lists"
+msgstr "Listes"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:163
+msgid "List item"
+msgstr "Element de liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:163
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:256
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:296
+msgid "New list"
+msgstr "Nouvelle liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:168
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:252
+msgid "List"
+msgstr "Liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:251
+msgid "List:"
+msgstr "Liste :"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:253
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:254
+msgid "Add new list item"
+msgstr "Ajouter un nouvel élément de liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:257
+msgid "All list items"
+msgstr "Tous les éléments de liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:258
+msgid "View list"
+msgstr "Voir la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:259
+msgid "Search list items"
+msgstr "Rechercher des éléments de liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:260
+msgid "No list items found"
+msgstr "Pas d'élément de liste trouvé"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:261
+msgid "No list items found in Trash"
+msgstr "Pas d'élément de liste trouvé dabs la corbeille"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:263
+msgid "List items"
+msgstr "Elements de liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:288
+msgid "Search lists"
+msgstr "Rechercher des listes"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:289
+msgid "Popular lists"
+msgstr "Listes populaires"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:290
+msgid "All lists"
+msgstr "Toutes les listes"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:294
+msgid "Update list"
+msgstr "Mettre à jour la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:295
+msgid "Add new list"
+msgstr "Ajouter une nouvelle liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:297
+msgid "Separate lists with commas"
+msgstr "Séparer les listes par des virgules"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:298
+msgid "Add or remove lists"
+msgstr "Ajouter ou supprimer des listes"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:299
+msgid "Choose from the most used lists"
+msgstr "Choisissez parmi les listes les plus utilisés"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/lists.php:300
+msgid "No lists found."
+msgstr "Aucune liste trouvée."
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/wp_list.js.php:12
+msgid "Select list"
+msgstr "Sélectionner la liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/wp_list.js.php:18
+msgid "Insert list"
+msgstr "Insérer une liste"
+
+#: C:\xampp\htdocs\wpmaster\wp-content\plugins\wp-lists/wp_list.js.php:23
+msgid "Close"
+msgstr "Fermer"

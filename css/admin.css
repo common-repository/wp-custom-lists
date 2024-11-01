@@ -1,0 +1,5 @@
+.wp-list-table .column-nb { width: 30px; text-align: center; }
+#listitem { width: 80%;}
+.taxonomy-required {  background: #FFEBE8 !important;  border: 1px solid #c00 !important; }
+#taxonomy-item label span { color: #c00;  font-weight: bold;  }
+#wplist { width : 400px; }
